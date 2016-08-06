@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Election</string>
+    <string name="dept_details">Deo/Depty Deo Details</string>
+    <string name="aero_details">Ero/Aero Details</string>
+    <string name="booths_details">Booth Details</string>
+    <string name="vulnerable_booth_details">Vulnerable Booth Details</string>
+</resources>
